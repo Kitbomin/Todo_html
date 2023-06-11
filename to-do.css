@@ -33,6 +33,10 @@
     color: var(--col-yellow);
 }
 
+.rounded-border {
+    border-radius: 10px;
+}
+
 #content {
     display: flex;
     justify-content: center;
